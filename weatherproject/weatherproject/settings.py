@@ -131,6 +131,7 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# settings.py for gimini api
-# here paste your own api key
-API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+
+# settings.py for gimini api 
+# paste your own api key here ....
+API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
